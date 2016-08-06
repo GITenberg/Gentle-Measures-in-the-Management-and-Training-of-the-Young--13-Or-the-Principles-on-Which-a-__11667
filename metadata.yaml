@@ -1,0 +1,42 @@
+_repo: Gentle-Measures-in-the-Management-and-Training-of-the-Young--13-Or-the-Principles-on-Which-a-__11667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education, Primary'
+- !lcc 'LB'
+- !lcsh 'Discipline of children'
+- !lcsh 'Child rearing'
+- GITenberg
+tableOfContents: 'Three modes of management -- What are gentle measures? -- There
+  must be authority -- Gentle punishment of disobedience -- The philosophy of punishment
+  -- Rewarding obedience -- The art of training -- Methods exemplified -- Della and
+  the dolls -- Sympathy I: The child with the parent -- Sympathy II: The parent with
+  the child -- Commendation and encouragement -- Faults of immaturity -- The activity
+  of children -- The imagination in children -- Truth and falsehood -- Judgment and
+  reasoning -- Wishes and requests -- Children''s questions -- The use of money --
+  Corporal punishment -- Gratitude in children -- Religious training -- Conclusion.'
+title: "Gentle Measures in the Management and Training of the Young\r\nOr, the Principles\
+  \ on Which a Firm Parental Authority May Be Established and Maintained, Without\
+  \ Violence or Anger, and the Right Development of the Moral and Mental Capacities\
+  \ Be Promoted by Methods in Harmony with the Structure and the Characteristics of\
+  \ the Juvenile Mind"
+url: http://www.gutenberg.org/ebooks/11667
